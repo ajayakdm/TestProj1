@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T06:44:00Z" name="Default suite" finished-at="2022-06-10T06:44:09Z" duration-ms="9510">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T06:44:00Z" name="Default test" finished-at="2022-06-10T06:44:09Z" duration-ms="9510">
+      <class name="testProject.SwitchCases">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testProject.SwitchCases@768fc0f2]" started-at="2022-06-10T06:44:00Z" name="launchBrowser" finished-at="2022-06-10T06:44:09Z" duration-ms="9281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="launchLearner()[pri:0, instance:testProject.SwitchCases@768fc0f2]" started-at="2022-06-10T06:44:09Z" name="launchLearner" finished-at="2022-06-10T06:44:09Z" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchLearner -->
+      </class> <!-- testProject.SwitchCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
